@@ -13,8 +13,8 @@ Gendalf.stoned(false)
 console.log(Gendalf)
 
 
-/*const Emon = new Magician('Emon', 'Daemon')
+const Emon = new Magician('Emon', 'Daemon')
 
 Emon.distance(2)
 
-console.log(Emon)*/
+console.log(Emon)
